@@ -1,2 +1,1 @@
 this is file for bugfix branch testing
-this is new line
